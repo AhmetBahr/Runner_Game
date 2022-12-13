@@ -1,0 +1,1 @@
+First push: Karakter bitiş çizgisini geçince durması ve kamera hareketi kodları
